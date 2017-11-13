@@ -1,0 +1,2 @@
+C:\VB Project\Alarminom\Alarminom\bin\Debug\Alarminom.exe
+C:\VB Project\Alarminom\Alarminom\bin\Debug\Alarminom.pdb

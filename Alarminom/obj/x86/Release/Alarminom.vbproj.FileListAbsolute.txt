@@ -1,0 +1,10 @@
+C:\VB Project\Alarminom\Alarminom\bin\Release\Alarminom.exe
+C:\VB Project\Alarminom\Alarminom\bin\Release\Alarminom.pdb
+C:\VB Project\Alarminom\Alarminom\bin\Release\Alarminom.xml
+C:\VB Project\Alarminom\Alarminom\obj\x86\Release\Alarminom.Alarminom.resources
+C:\VB Project\Alarminom\Alarminom\obj\x86\Release\Alarminom.Form1.resources
+C:\VB Project\Alarminom\Alarminom\obj\x86\Release\Alarminom.Resources.resources
+C:\VB Project\Alarminom\Alarminom\obj\x86\Release\Alarminom.vbproj.GenerateResource.Cache
+C:\VB Project\Alarminom\Alarminom\obj\x86\Release\Alarminom.exe
+C:\VB Project\Alarminom\Alarminom\obj\x86\Release\Alarminom.xml
+C:\VB Project\Alarminom\Alarminom\obj\x86\Release\Alarminom.pdb
